@@ -1,102 +1,102 @@
-﻿name,type,county,population,sqmi,km,incorporated
-Alameda,City,Alameda,"73,812",10.61,27.5,"April 19, 1854"
-Albany,City,Alameda,"18,539",1.79,4.6,22-Sep-08
-American Canyon,City,Napa,"19,454",4.84,12.5,1-Jan-92
-Antioch,City,Contra Costa,"102,372",28.35,73.4,"February 6, 1872"
-Atherton,Town,San Mateo,"6,914",5.02,13,12-Sep-23
-Belmont,City,San Mateo,"25,835",4.62,12,29-Oct-26
-Belvedere,City,Marin,"2,068",0.52,1.3,"December 24, 1896"
-Benicia,City,Solano,"26,997",12.93,33.5,"March 27, 1850"
-Berkeley,City,Alameda,"112,580",10.47,27.1,"April 4, 1878"
-Brentwood,City,Contra Costa,"51,481",14.79,38.3,21-Jan-48
-Brisbane,City,San Mateo,"4,282",3.1,8,27-Nov-61
-Burlingame,City,San Mateo,"28,806",4.41,11.4,6-Jun-08
-Calistoga,City,Napa,"5,155",2.6,6.7,"January 6, 1886"
-Campbell,City,Santa Clara,"39,349",5.8,15,28-Mar-52
-Clayton,City,Contra Costa,"10,897",3.84,9.9,18-Mar-64
-Cloverdale,City,Sonoma,"8,618",2.65,6.9,"February 28, 1872"
-Colma,Town,San Mateo,"1,792",1.91,4.9,5-Aug-24
-Concord,City,Contra Costa,"122,067",30.55,79.1,9-Feb-05
-Corte Madera,Town,Marin,"9,253",3.16,8.2,10-Jun-16
-Cotati,City,Sonoma,"7,265",1.88,4.9,16-Jul-63
-Cupertino,City,Santa Clara,"58,302",11.26,29.2,10-Oct-55
-Daly City,City,San Mateo,"101,123",7.66,19.8,22-Mar-11
-Danville,Town,Contra Costa,"42,039",18.03,46.7,1-Jul-82
-Dixon,City,Solano,"18,351",7,18.1,"March 30, 1878"
-Dublin,City,Alameda,"46,036",14.91,38.6,1-Feb-82
-East Palo Alto,City,San Mateo,"28,155",2.51,6.5,1-Jul-83
-El Cerrito,City,Contra Costa,"23,549",3.69,9.6,23-Aug-17
-Emeryville,City,Alameda,"10,080",1.25,3.2,"December 8, 1896"
-Fairfax,Town,Marin,"7,441",2.2,5.7,2-Mar-31
-Fairfield,City,Solano,"105,321",37.39,96.8,12-Dec-03
-Foster City,City,San Mateo,"30,567",3.76,9.7,27-Apr-71
-Fremont,City,Alameda,"214,089",77.46,200.6,23-Jan-56
-Gilroy,City,Santa Clara,"48,821",16.15,41.8,"March 12, 1870"
-Half Moon Bay,City,San Mateo,"11,324",6.42,16.6,15-Jul-59
-Hayward,City,Alameda,"144,186",45.32,117.4,"March 11, 1876"
-Healdsburg,City,Sonoma,"11,254",4.46,11.6,"February 20, 1867"
-Hercules,City,Contra Costa,"24,060",6.21,16.1,15-Dec-00
-Hillsborough,Town,San Mateo,"10,825",6.19,16,5-May-10
-Lafayette,City,Contra Costa,"23,893",15.22,39.4,29-Jul-68
-Larkspur,City,Marin,"11,926",3.03,7.8,1-Mar-08
-Livermore,City,Alameda,"80,968",25.17,65.2,"April 1, 1876"
-Los Altos,City,Santa Clara,"28,976",6.49,16.8,1-Dec-52
-Los Altos Hills,Town,Santa Clara,"7,922",8.8,22.8,27-Jan-56
-Los Gatos,Town,Santa Clara,"29,413",11.08,28.7,"August 10, 1887"
-Martinez,City,Contra Costa,"35,824",12.13,31.4,"April 1, 1876"
-Menlo Park,City,San Mateo,"32,026",9.79,25.4,23-Nov-27
-Mill Valley,City,Marin,"13,903",4.76,12.3,1-Sep-00
-Millbrae,City,San Mateo,"21,532",3.25,8.4,14-Jan-48
-Milpitas,City,Santa Clara,"66,790",13.59,35.2,26-Jan-54
-Monte Sereno,City,Santa Clara,"3,341",1.62,4.2,14-May-57
-Moraga,Town,Contra Costa,"16,016",9.43,24.4,13-Nov-74
-Morgan Hill,City,Santa Clara,"37,882",12.88,33.4,10-Nov-06
-Mountain View,City,Santa Clara,"74,066",12,31.1,7-Nov-02
-Napa,City,Napa,"76,915",17.84,46.2,"March 23, 1872"
-Newark,City,Alameda,"42,573",13.87,35.9,22-Sep-55
-Novato,City,Marin,"51,904",27.44,71.1,20-Jan-60
-Oakland,City,Alameda,"390,724",55.79,144.5,"May 4, 1852"
-Oakley,City,Contra Costa,"35,432",15.85,41.1,1-Jul-99
-Orinda,City,Contra Costa,"17,643",12.68,32.8,1-Jul-85
-Pacifica,City,San Mateo,"37,234",12.66,32.8,22-Nov-57
-Palo Alto,City,Santa Clara,"64,403",23.88,61.8,"April 23, 1894"
-Petaluma,City,Sonoma,"57,941",14.38,37.2,"April 12, 1858"
-Piedmont,City,Alameda,"10,667",1.68,4.4,31-Jan-07
-Pinole,City,Contra Costa,"18,390",5.32,13.8,25-Jun-03
-Pittsburg,City,Contra Costa,"63,264",17.22,44.6,25-Jun-03
-Pleasant Hill,City,Contra Costa,"33,152",7.07,18.3,14-Nov-61
-Pleasanton,City,Alameda,"70,285",24.11,62.4,"June 18, 1894"
-Portola Valley,Town,San Mateo,"4,353",9.09,23.5,14-Jul-64
-Redwood City,City,San Mateo,"76,815",19.42,50.3,"May 11, 1867"
-Richmond,City,Contra Costa,"103,701",30.07,77.9,7-Aug-05
-Rio Vista,City,Solano,"7,360",6.69,17.3,"January 6, 1894"
-Rohnert Park,City,Sonoma,"40,971",7,18.1,28-Aug-62
-Ross,Town,Marin,"2,415",1.56,4,21-Aug-08
-St. Helena,City,Napa,"5,814",4.99,12.9,"March 24, 1876"
-San Anselmo,Town,Marin,"12,336",2.68,6.9,9-Apr-07
-San Bruno,City,San Mateo,"41,114",5.48,14.2,23-Dec-14
-San Carlos,City,San Mateo,"28,406",5.54,14.3,8-Jul-25
-San Francisco,City and county,San Francisco,"805,235",46.87,121.4,"April 16, 1850[10]"
-San Jose,City,Santa Clara,"945,942",176.53,457.2,"March 27, 1850"
-San Leandro,City,Alameda,"84,950",13.34,34.6,"March 21, 1872"
-San Mateo,City,San Mateo,"97,207",12.13,31.4,"September 4, 1894"
-San Pablo,City,Contra Costa,"29,139",2.63,6.8,27-Apr-48
-San Rafael,City,Marin,"57,713",16.47,42.7,"February 18, 1874"
-San Ramon,City,Contra Costa,"72,148",18.06,46.8,1-Jul-83
-Santa Clara,City,Santa Clara,"116,468",18.41,47.7,"July 5, 1852"
-Santa Rosa,City,Sonoma,"167,815",41.29,106.9,"March 26, 1868"
-Saratoga,City,Santa Clara,"29,926",12.38,32.1,22-Oct-56
-Sausalito,City,Marin,"7,061",1.77,4.6,"September 4, 1893"
-Sebastopol,City,Sonoma,"7,379",1.85,4.8,13-Jun-02
-Sonoma,City,Sonoma,"10,648",2.74,7.1,"September 3, 1883"
-South San Francisco,City,San Mateo,"63,632",9.14,23.7,19-Sep-08
-Suisun City,City,Solano,"28,111",4.11,10.6,"October 9, 1868"
-Sunnyvale,City,Santa Clara,"140,081",21.99,57,24-Dec-12
-Tiburon,Town,Marin,"8,962",4.43,11.5,23-Jun-64
-Union City,City,Alameda,"69,516",19.47,50.4,26-Jan-59
-Vacaville,City,Solano,"92,428",28.37,73.5,"August 9, 1892"
-Vallejo,City,Solano,"115,942",30.67,79.4,"March 30, 1868"
-Walnut Creek,City,Contra Costa,"64,173",19.76,51.2,21-Oct-14
-Windsor,Town,Sonoma,"26,801",7.27,18.8,1-Jul-92
-Woodside,Town,San Mateo,"5,287",11.73,30.4,16-Nov-56
-Yountville,Town,Napa,"2,933",1.53,4,4-Feb-65
+name	type	county	population	sqmi
+Alameda	City	Alameda	"73,812"	10.61
+Albany	City	Alameda	"18,539"	1.79
+American Canyon	City	Napa	"19,454"	4.84
+Antioch	City	Contra Costa	"102,372"	28.35
+Atherton	Town	San Mateo	"6,914"	5.02
+Belmont	City	San Mateo	"25,835"	4.62
+Belvedere	City	Marin	"2,068"	0.52
+Benicia	City	Solano	"26,997"	12.93
+Berkeley	City	Alameda	"112,580"	10.47
+Brentwood	City	Contra Costa	"51,481"	14.79
+Brisbane	City	San Mateo	"4,282"	3.1
+Burlingame	City	San Mateo	"28,806"	4.41
+Calistoga	City	Napa	"5,155"	2.6
+Campbell	City	Santa Clara	"39,349"	5.8
+Clayton	City	Contra Costa	"10,897"	3.84
+Cloverdale	City	Sonoma	"8,618"	2.65
+Colma	Town	San Mateo	"1,792"	1.91
+Concord	City	Contra Costa	"122,067"	30.55
+Corte Madera	Town	Marin	"9,253"	3.16
+Cotati	City	Sonoma	"7,265"	1.88
+Cupertino	City	Santa Clara	"58,302"	11.26
+Daly City	City	San Mateo	"101,123"	7.66
+Danville	Town	Contra Costa	"42,039"	18.03
+Dixon	City	Solano	"18,351"	7
+Dublin	City	Alameda	"46,036"	14.91
+East Palo Alto	City	San Mateo	"28,155"	2.51
+El Cerrito	City	Contra Costa	"23,549"	3.69
+Emeryville	City	Alameda	"10,080"	1.25
+Fairfax	Town	Marin	"7,441"	2.2
+Fairfield	City	Solano	"105,321"	37.39
+Foster City	City	San Mateo	"30,567"	3.76
+Fremont	City	Alameda	"214,089"	77.46
+Gilroy	City	Santa Clara	"48,821"	16.15
+Half Moon Bay	City	San Mateo	"11,324"	6.42
+Hayward	City	Alameda	"144,186"	45.32
+Healdsburg	City	Sonoma	"11,254"	4.46
+Hercules	City	Contra Costa	"24,060"	6.21
+Hillsborough	Town	San Mateo	"10,825"	6.19
+Lafayette	City	Contra Costa	"23,893"	15.22
+Larkspur	City	Marin	"11,926"	3.03
+Livermore	City	Alameda	"80,968"	25.17
+Los Altos	City	Santa Clara	"28,976"	6.49
+Los Altos Hills	Town	Santa Clara	"7,922"	8.8
+Los Gatos	Town	Santa Clara	"29,413"	11.08
+Martinez	City	Contra Costa	"35,824"	12.13
+Menlo Park	City	San Mateo	"32,026"	9.79
+Mill Valley	City	Marin	"13,903"	4.76
+Millbrae	City	San Mateo	"21,532"	3.25
+Milpitas	City	Santa Clara	"66,790"	13.59
+Monte Sereno	City	Santa Clara	"3,341"	1.62
+Moraga	Town	Contra Costa	"16,016"	9.43
+Morgan Hill	City	Santa Clara	"37,882"	12.88
+Mountain View	City	Santa Clara	"74,066"	12
+Napa	City	Napa	"76,915"	17.84
+Newark	City	Alameda	"42,573"	13.87
+Novato	City	Marin	"51,904"	27.44
+Oakland	City	Alameda	"390,724"	55.79
+Oakley	City	Contra Costa	"35,432"	15.85
+Orinda	City	Contra Costa	"17,643"	12.68
+Pacifica	City	San Mateo	"37,234"	12.66
+Palo Alto	City	Santa Clara	"64,403"	23.88
+Petaluma	City	Sonoma	"57,941"	14.38
+Piedmont	City	Alameda	"10,667"	1.68
+Pinole	City	Contra Costa	"18,390"	5.32
+Pittsburg	City	Contra Costa	"63,264"	17.22
+Pleasant Hill	City	Contra Costa	"33,152"	7.07
+Pleasanton	City	Alameda	"70,285"	24.11
+Portola Valley	Town	San Mateo	"4,353"	9.09
+Redwood City	City	San Mateo	"76,815"	19.42
+Richmond	City	Contra Costa	"103,701"	30.07
+Rio Vista	City	Solano	"7,360"	6.69
+Rohnert Park	City	Sonoma	"40,971"	7
+Ross	Town	Marin	"2,415"	1.56
+St. Helena	City	Napa	"5,814"	4.99
+San Anselmo	Town	Marin	"12,336"	2.68
+San Bruno	City	San Mateo	"41,114"	5.48
+San Carlos	City	San Mateo	"28,406"	5.54
+San Francisco	City and county	San Francisco	"805,235"	46.87
+San Jose	City	Santa Clara	"945,942"	176.53
+San Leandro	City	Alameda	"84,950"	13.34
+San Mateo	City	San Mateo	"97,207"	12.13
+San Pablo	City	Contra Costa	"29,139"	2.63
+San Rafael	City	Marin	"57,713"	16.47
+San Ramon	City	Contra Costa	"72,148"	18.06
+Santa Clara	City	Santa Clara	"116,468"	18.41
+Santa Rosa	City	Sonoma	"167,815"	41.29
+Saratoga	City	Santa Clara	"29,926"	12.38
+Sausalito	City	Marin	"7,061"	1.77
+Sebastopol	City	Sonoma	"7,379"	1.85
+Sonoma	City	Sonoma	"10,648"	2.74
+South San Francisco	City	San Mateo	"63,632"	9.14
+Suisun City	City	Solano	"28,111"	4.11
+Sunnyvale	City	Santa Clara	"140,081"	21.99
+Tiburon	Town	Marin	"8,962"	4.43
+Union City	City	Alameda	"69,516"	19.47
+Vacaville	City	Solano	"92,428"	28.37
+Vallejo	City	Solano	"115,942"	30.67
+Walnut Creek	City	Contra Costa	"64,173"	19.76
+Windsor	Town	Sonoma	"26,801"	7.27
+Woodside	Town	San Mateo	"5,287"	11.73
+Yountville	Town	Napa	"2,933"	1.53
