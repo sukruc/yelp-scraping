@@ -9,9 +9,10 @@ biz_street = []
 biz_city = []
 biz_zip = []
 biz_contact = []
+location_list = cities
 # s = requests.Session() # if you'd like to use a session, uncomment this line and replace requests in line 18 with session name
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'}
-for city in cities.name.values:
+for city in location_list:
     print(city)
     for page_num in range(0,500,10):
         q_url = "https://www.yelp.com/search?find_desc=restaurants&find_loc=%s&start=%d"%(city,page_num)
